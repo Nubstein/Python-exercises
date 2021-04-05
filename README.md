@@ -1,5 +1,5 @@
 # Python-exercises
-Curso de aprendizado
+Aprendendo Python do zero. 
 # Tecnologias
 - Python
 - Pycharm
